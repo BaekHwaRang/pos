@@ -1,0 +1,145 @@
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\bin\Debug\Pos.exe.config
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\bin\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\bin\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\obj\Debug\Pos.csprojResolveAssemblyReference.cache
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\obj\Debug\Pos.Form1.resources
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\obj\Debug\Pos.csproj.GenerateResource.Cache
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\obj\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\C언어\C++\Pos\Pos\obj\Debug\Pos.pdb
+C:\Users\GG201305000012\source\repos\Pos\bin\Debug\Pos.exe.config
+C:\Users\GG201305000012\source\repos\Pos\bin\Debug\Pos.exe
+C:\Users\GG201305000012\source\repos\Pos\bin\Debug\Pos.pdb
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.csprojAssemblyReference.cache
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.Form1.resources
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.exe
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.pdb
+C:\Users\GG201305000012\source\repos\Pos\obj\Debug\Pos.Form2.resources
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\Pos.exe.config
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.csprojAssemblyReference.cache
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.age.resources
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.Main.resources
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\MySql.Data.dll
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\Google.Protobuf.dll
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\MySql.Data.xml
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\obj\Debug\Pos.csproj.CopyComplete
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\MySql.Web.dll
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Hwarang\Desktop\C언어\Pos (2)\bin\Debug\MySql.Web.xml
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\Pos.exe.config
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\MySql.Data.dll
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\MySql.Web.dll
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\MySql.Data.xml
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Hwarang\Desktop\C언어\Pos\bin\Debug\MySql.Web.xml
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.csprojAssemblyReference.cache
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.age.resources
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.Main.resources
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.csproj.CopyComplete
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\C언어\Pos\obj\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\Pos.exe.config
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Data.dll
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Web.dll
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Data.xml
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Web.xml
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csprojAssemblyReference.cache
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.age.resources
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Main.resources
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.product.resources
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Receipt.resources
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csproj.CopyComplete
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.productUpdate.resources
+C:\Users\Hwarang\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Current.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\Pos.exe.config
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\Pos.exe
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\Pos.pdb
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\Google.Protobuf.dll
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Data.xml
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\bin\Debug\MySql.Web.xml
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csprojAssemblyReference.cache
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.age.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Main.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Current.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.product.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.productUpdate.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.Receipt.resources
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.csproj.CopyComplete
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.exe
+C:\Users\GG201305000012\Desktop\c#pos (3)\Pos\obj\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\Pos.exe.config
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\Pos.pdb
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\MySql.Data.dll
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\MySql.Web.dll
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\MySql.Data.xml
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\bin\Debug\MySql.Web.xml
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.csprojAssemblyReference.cache
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.age.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.Main.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.Current.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.product.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.productUpdate.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.Receipt.resources
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.csproj.CopyComplete
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.exe
+C:\Users\Hwarang\Desktop\c#pos (3) (2)\Pos\obj\Debug\Pos.pdb
+C:\Users\GG201305000012\Desktop\c#pos\Pos\bin\Debug\Pos.exe.config
+C:\Users\GG201305000012\Desktop\c#pos\Pos\bin\Debug\Pos.exe
+C:\Users\GG201305000012\Desktop\c#pos\Pos\bin\Debug\Pos.pdb
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.age.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.Main.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.Current.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.product.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.productUpdate.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.Receipt.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.csproj.GenerateResource.cache
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.csproj.CopyComplete
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.exe
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.pdb
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Debug\Pos.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.age.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.Main.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.Current.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.product.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.productUpdate.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.Properties.Resources.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.Receipt.resources
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.csproj.GenerateResource.cache
+C:\Users\GG201305000012\Desktop\c#pos\Pos\obj\Release\Pos.csproj.CoreCompileInputs.cache
